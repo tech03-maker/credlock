@@ -63,6 +63,10 @@
   color: white;
 }
 
+footer {
+  background-color: #000000;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
   .explore-h3 {

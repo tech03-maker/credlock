@@ -64,7 +64,7 @@ export const Explore = () => {
                 device loan portfolios
               </p>
             </div>
-            <form className="explore-form col-12 col-sm-12 col-md-6 col-lg-6 mt-5">
+            <form className="explore-form col-12 col-sm-12 col-md-6 col-lg-6 mt-4">
               <input
                 className="w-100 input p-3"
                 type="email"
@@ -78,6 +78,9 @@ export const Explore = () => {
           </div>
         </div>
       </div>
+      <footer className="text-center fs-6 text-white fw-light p-4 mt-5">
+        <p className="mt-3">Credlock Copyright © 2023</p>
+      </footer>
     </div>
   );
 };

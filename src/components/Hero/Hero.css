@@ -86,9 +86,9 @@ span {
   }
 
   .top {
-    bottom: 10rem; /* Adjust as needed for smaller screens */
-    right: 0.5rem; /* Adjust as needed for smaller screens */
-    width: 100%; /* Adjust as needed for smaller screens */
+    bottom: 15rem;
+    right: 0.5rem;
+    width: 100%;
   }
   .blue {
     border-bottom: 1px solid rgba(255, 255, 255, 0.137);

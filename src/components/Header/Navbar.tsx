@@ -38,7 +38,7 @@ export const Navbar = () => {
                   className="nav-button btn-outline-success"
                   type="submit"
                 >
-                  Search
+                  Contact
                 </button>
               </form>
             </div>

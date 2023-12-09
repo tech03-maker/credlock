@@ -62,6 +62,10 @@ span {
   color: white;
   padding: 2rem;
 }
+.hero-buttons a{
+    color: black !important;
+    text-decoration: none !important;
+}
 
 /* Responsiveness */
 

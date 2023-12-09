@@ -44,9 +44,11 @@ export const Mission = () => {
                 management lifecycles to include loan-default mitigation.
               </span>
             </div>
-            <button className="mission-button w-25 mt-3" type="button">
-              Contact
-            </button>
+            <a href="#">
+              <button className="mission-button w-25 mt-3" type="button">
+                Contact
+              </button>
+            </a>
           </div>
           <div className="col-12 col-sm-12 col-md-6 col-lg-6">
             <img className="w-100" src={phone} alt="" />

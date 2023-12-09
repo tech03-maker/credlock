@@ -20,11 +20,11 @@ export const Hero = () => {
 
             <div className="hero-buttons row">
               <div className="col-6">
-                <button type="button">Contact us</button>
+               <a href="#"> <button type="button">Contact us</button></a>
               </div>
               <div className="col-6">
                 <img src={play} alt="" />
-                <small>How it works</small>
+                <a href="#"><small>How it works</small></a>
               </div>
             </div>
             <p className="mt-3">

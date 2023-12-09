@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import "./Explore.css";
 import wallet from "../../assets/wallet.webp";
 import finance from "../../assets/finance.webp";

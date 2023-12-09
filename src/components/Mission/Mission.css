@@ -1,0 +1,31 @@
+.mission-text {
+  color: #00107a;
+  letter-spacing: 3px;
+  font-weight: 600;
+}
+
+.checkbox {
+  height: 20px;
+}
+
+.side-check {
+  padding-left: 10px;
+  font-size: 17px;
+}
+
+.mission-button {
+  color: white;
+  /* border: 1px solid #00107A; */
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #00107a;
+  transition: all 0.3s;
+  width: 100%;
+}
+
+.mission-button:hover {
+  border: 1px solid #00107a;
+  background-color: transparent;
+  color: #00107a;
+}

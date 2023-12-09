@@ -14,7 +14,7 @@ export const Mission = () => {
           their device credit finance portfolios
         </h3>
         <div className="row">
-          <div className="col-6">
+          <div className="col-12 col-sm-12 col-md-6 col-lg-6">
             <p className="fs-5 mt-5">
               CredLock gives Financial Institutions and BNPL organizations the
               capability they need to scale their micro-credit lending
@@ -48,7 +48,7 @@ export const Mission = () => {
               Contact
             </button>
           </div>
-          <div className="col-6">
+          <div className="col-12 col-sm-12 col-md-6 col-lg-6">
             <img className="w-100" src={phone} alt="" />
           </div>
         </div>
